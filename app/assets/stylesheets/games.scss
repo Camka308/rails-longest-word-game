@@ -1,0 +1,41 @@
+// Place all the styles related to the Games controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+body {
+  text-align: center;
+  padding: 0 24px;
+}
+
+h1 {
+  font-family: 'Segoe UI',  sans-serif;
+}
+
+span {
+  border-style: ridge;
+  box-shadow: 5px;
+  background-color: #308F9D;
+  opacity: 0.8;
+  font-size: xx-large;
+  font-family: Arial, sans-serif;
+  color: white;
+  padding: 4px 12px;
+  display: inline;
+  list-style: none;
+}
+
+h2 {
+  font-family: 'Segoe UI',  sans-serif;
+  font-weight: lighter;
+}
+
+p {
+  font-weight: lighter;
+  font-family: Arial, sans-serif;
+  font-size: large;
+  color : #015656;
+}
+
+.score {
+  background: url(https://www.pexels.com/fr-fr/photo/homme-marchant-sur-le-sentier-pres-de-la-structure-blanche-3369537/)
+}
